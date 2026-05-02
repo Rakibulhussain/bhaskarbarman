@@ -237,7 +237,7 @@ function About() {
       <div className="about-layout">
         <div className="about-img-wrap">
           <img
-            src={categories[0].cover}
+            src="https://ik.imagekit.io/il1hcqwbr/img/WhatsApp%20Image%202026-05-02%20at%208.47.05%20PM%20(1).jpeg"
             alt="Bhaskar Barman"
             className="about-img"
           />
@@ -292,8 +292,8 @@ function Contact() {
     {
       icon: "◈",
       label: "Instagram",
-      value: "@your_handle",
-      href: "https://instagram.com/your_handle",
+      value: "@iambhaskarbarman",
+      href: "https://instagram.com/iambhaskarbarman",
     },
     {
       icon: "✆",
