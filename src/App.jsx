@@ -241,8 +241,6 @@ function About() {
             alt="Bhaskar Barman"
             className="about-img"
           />
-
-          
           <div className="about-img-tag">Guwahati, Assam</div>
         </div>
         <div className="about-text">
