@@ -22,6 +22,33 @@ const categories = [
       "https://ik.imagekit.io/il1hcqwbr/img/IMG_6065.JPG.jpeg?updatedAt=1777720174076",
       "https://ik.imagekit.io/il1hcqwbr/img/IMG_6070.JPG.jpeg?updatedAt=1777720175546",
       "https://ik.imagekit.io/il1hcqwbr/img/IMG_6086.JPG.jpeg?updatedAt=1777720175458",
+
+      "https://ik.imagekit.io/il1hcqwbr/img/WhatsApp%20Image%202026-05-02%20at%204.29.59%20PM%20(1).jpeg?updatedAt=1777727674611",
+      "https://ik.imagekit.io/il1hcqwbr/img/IMG_6012.JPG.jpeg?updatedAt=1777720197448",
+      "https://ik.imagekit.io/il1hcqwbr/img/IMG_6001.JPG.jpeg?updatedAt=1777720195699",
+      "https://ik.imagekit.io/il1hcqwbr/img/IMG_5335.PNG?updatedAt=1777720180402",
+      "https://ik.imagekit.io/il1hcqwbr/img/IMG_6488.JPG.jpeg?updatedAt=1777720179552",
+      "https://ik.imagekit.io/il1hcqwbr/img/IMG_6075.JPG.jpeg?updatedAt=1777720178062",
+      "https://ik.imagekit.io/il1hcqwbr/img/IMG_6037.JPG.jpeg?updatedAt=1777720177768",
+      "https://ik.imagekit.io/il1hcqwbr/img/IMG_6035.JPG.jpeg?updatedAt=1777720175245",
+      "https://ik.imagekit.io/il1hcqwbr/img/IMG_6072.JPG.jpeg?updatedAt=1777720176130",
+      "https://ik.imagekit.io/il1hcqwbr/img/IMG_6072.JPG.jpeg?updatedAt=1777720176130",
+      "https://ik.imagekit.io/il1hcqwbr/img/IMG_6065.JPG.jpeg?updatedAt=1777720174076",
+      "https://ik.imagekit.io/il1hcqwbr/img/IMG_6086.JPG.jpeg?updatedAt=1777720175458",
+      "https://ik.imagekit.io/il1hcqwbr/img/IMG_6066.JPG.jpeg?updatedAt=1777720175612",
+      "https://ik.imagekit.io/il1hcqwbr/img/IMG_6085.JPG.jpeg?updatedAt=1777720174409",
+      "https://ik.imagekit.io/il1hcqwbr/img/IMG_6049.JPG.jpeg?updatedAt=1777720178053",
+      "https://ik.imagekit.io/il1hcqwbr/img/IMG_1837.JPG.jpeg?updatedAt=1777720174239",
+      "https://ik.imagekit.io/il1hcqwbr/img/IMG_1839.JPG.jpeg?updatedAt=1777720174202",
+      "https://ik.imagekit.io/il1hcqwbr/img/IMG_1836.JPG.jpeg?updatedAt=1777720172669",
+      "https://ik.imagekit.io/il1hcqwbr/img/IMG_1838.JPG.jpeg?updatedAt=1777720172215",
+      "https://ik.imagekit.io/il1hcqwbr/img/IMG_5333.JPG.jpeg?updatedAt=1777720168493",
+      "https://ik.imagekit.io/il1hcqwbr/img/IMG_5334.JPG.jpeg?updatedAt=1777720169707",
+      "https://ik.imagekit.io/il1hcqwbr/img/IMG_1842.JPG.jpeg?updatedAt=1777720169054",
+      "https://ik.imagekit.io/il1hcqwbr/img/IMG_1842.JPG.jpeg?updatedAt=1777720169054",
+      "https://ik.imagekit.io/il1hcqwbr/img/IMG_6485.JPG.jpeg?updatedAt=1777720162575",
+      "https://ik.imagekit.io/il1hcqwbr/img/IMG_5715.TIF?updatedAt=1777720160442"
+
     ],
   },
   {
@@ -31,11 +58,20 @@ const categories = [
     cover:
       "https://ik.imagekit.io/il1hcqwbr/img/IMG_8645.JPG.jpeg?updatedAt=1777720197089",
     photos: [
+
+
       "https://ik.imagekit.io/il1hcqwbr/img/IMG_8645.JPG.jpeg?updatedAt=1777720197089",
-      "https://ik.imagekit.io/il1hcqwbr/img/IMG_8644.JPG.jpeg?updatedAt=1777720195049",
+      "https://ik.imagekit.io/il1hcqwbr/img/IMG_8655.JPG.jpeg?updatedAt=1777720193271",
       "https://ik.imagekit.io/il1hcqwbr/img/IMG_8656.JPG.jpeg?updatedAt=1777720191631",
-      "https://ik.imagekit.io/il1hcqwbr/img/IMG_8654.JPG.jpeg?updatedAt=1777720191720",
       "https://ik.imagekit.io/il1hcqwbr/img/IMG_8646.JPG.jpeg?updatedAt=1777720191476",
+      "https://ik.imagekit.io/il1hcqwbr/img/IMG_8643.JPG.jpeg?updatedAt=1777720190865",
+      "https://ik.imagekit.io/il1hcqwbr/img/IMG_2334.JPG.jpeg?updatedAt=1777720177735",
+      "https://ik.imagekit.io/il1hcqwbr/img/IMG_2335.JPG.jpeg?updatedAt=1777720174437",
+      "https://ik.imagekit.io/il1hcqwbr/img/IMG_2337.JPG.jpeg?updatedAt=1777720175953",
+      "https://ik.imagekit.io/il1hcqwbr/img/IMG_2339.JPG.jpeg?updatedAt=1777720174727",
+      "https://ik.imagekit.io/il1hcqwbr/img/IMG_2339.JPG.jpeg?updatedAt=1777720174727",
+
+
     ],
   },
   {
@@ -45,6 +81,33 @@ const categories = [
     cover:
       "https://ik.imagekit.io/il1hcqwbr/img/IMG_5334.JPG.jpeg?updatedAt=1777720169707",
     photos: [
+
+      "https://ik.imagekit.io/il1hcqwbr/img/WhatsApp%20Image%202026-05-02%20at%204.39.16%20PM.jpeg?updatedAt=1777727698703",
+      "https://ik.imagekit.io/il1hcqwbr/img/WhatsApp%20Image%202026-05-02%20at%204.39.15%20PM.jpeg?updatedAt=1777727699073",
+      "https://ik.imagekit.io/il1hcqwbr/img/WhatsApp%20Image%202026-05-02%20at%204.39.15%20PM%20(1).jpeg?updatedAt=1777727698985",
+      "https://ik.imagekit.io/il1hcqwbr/img/WhatsApp%20Image%202026-05-02%20at%204.39.15%20PM%20(2).jpeg?updatedAt=1777727698912",
+      "https://ik.imagekit.io/il1hcqwbr/img/WhatsApp%20Image%202026-05-02%20at%204.39.16%20PM%20(1).jpeg?updatedAt=1777727699030",
+      "https://ik.imagekit.io/il1hcqwbr/img/WhatsApp%20Image%202026-05-02%20at%204.39.19%20PM%20(2).jpeg?updatedAt=1777727673903",
+      "https://ik.imagekit.io/il1hcqwbr/img/WhatsApp%20Image%202026-05-02%20at%204.39.20%20PM.jpeg?updatedAt=1777727673864",
+      "https://ik.imagekit.io/il1hcqwbr/img/WhatsApp%20Image%202026-05-02%20at%204.39.54%20PM%20(2).jpeg?updatedAt=1777727674876",
+      "https://ik.imagekit.io/il1hcqwbr/img/WhatsApp%20Image%202026-05-02%20at%204.39.53%20PM.jpeg?updatedAt=1777727644757",
+      "https://ik.imagekit.io/il1hcqwbr/img/WhatsApp%20Image%202026-05-02%20at%204.39.19%20PM.jpeg?updatedAt=1777727643769",
+      "https://ik.imagekit.io/il1hcqwbr/img/WhatsApp%20Image%202026-05-02%20at%204.39.54%20PM.jpeg?updatedAt=1777727644541",
+      "https://ik.imagekit.io/il1hcqwbr/img/WhatsApp%20Image%202026-05-02%20at%204.41.23%20PM.jpeg?updatedAt=1777727644666",
+      "https://ik.imagekit.io/il1hcqwbr/img/WhatsApp%20Image%202026-05-02%20at%204.39.53%20PM%20(1).jpeg?updatedAt=1777727644508",
+      "https://ik.imagekit.io/il1hcqwbr/img/WhatsApp%20Image%202026-05-02%20at%204.39.53%20PM%20(1).jpeg?updatedAt=1777727644508",
+      "https://ik.imagekit.io/il1hcqwbr/img/WhatsApp%20Image%202026-05-02%20at%204.39.53%20PM%20(2).jpeg?updatedAt=1777727644745",
+      "https://ik.imagekit.io/il1hcqwbr/img/WhatsApp%20Image%202026-05-02%20at%204.39.17%20PM%20(1).jpeg?updatedAt=1777727644237",
+      "https://ik.imagekit.io/il1hcqwbr/img/WhatsApp%20Image%202026-05-02%20at%204.39.18%20PM%20(1).jpeg?updatedAt=1777727643532",
+      "https://ik.imagekit.io/il1hcqwbr/img/WhatsApp%20Image%202026-05-02%20at%204.39.19%20PM%20(1).jpeg?updatedAt=1777727643556",
+      "https://ik.imagekit.io/il1hcqwbr/img/WhatsApp%20Image%202026-05-02%20at%204.39.20%20PM%20(1).jpeg?updatedAt=1777727643661",
+      "https://ik.imagekit.io/il1hcqwbr/img/WhatsApp%20Image%202026-05-02%20at%204.39.54%20PM%20(1).jpeg?updatedAt=1777727644451",
+      "https://ik.imagekit.io/il1hcqwbr/img/WhatsApp%20Image%202026-05-02%20at%204.39.55%20PM.jpeg?updatedAt=1777727644620",
+      "https://ik.imagekit.io/il1hcqwbr/img/WhatsApp%20Image%202026-05-02%20at%204.41.25%20PM.jpeg?updatedAt=1777727644740",
+      "https://ik.imagekit.io/il1hcqwbr/img/WhatsApp%20Image%202026-05-02%20at%204.41.24%20PM%20(2).jpeg?updatedAt=1777727645107",
+
+      "https://ik.imagekit.io/il1hcqwbr/img/WhatsApp%20Image%202026-05-02%20at%204.41.24%20PM%20(1).jpeg?updatedAt=1777727644268",
+
       "https://ik.imagekit.io/il1hcqwbr/img/WhatsApp%20Image%202026-05-02%20at%204.39.15%20PM.jpeg",
       "https://ik.imagekit.io/il1hcqwbr/img/WhatsApp%20Image%202026-05-02%20at%204.39.16%20PM.jpeg",
       "https://ik.imagekit.io/il1hcqwbr/img/WhatsApp%20Image%202026-05-02%20at%204.39.17%20PM.jpeg",
@@ -351,12 +414,12 @@ export default function App() {
 
   const renderPage = () => {
     switch (page) {
-      case "home":     return <Home onNav={navigate} />;
-      case "work":     return <Work onSelectCategory={selectCategory} />;
+      case "home": return <Home onNav={navigate} />;
+      case "work": return <Work onSelectCategory={selectCategory} />;
       case "category": return <Category category={selectedCategory} onBack={() => navigate("work")} />;
-      case "about":    return <About />;
-      case "contact":  return <Contact />;
-      default:         return <Home onNav={navigate} />;
+      case "about": return <About />;
+      case "contact": return <Contact />;
+      default: return <Home onNav={navigate} />;
     }
   };
 
